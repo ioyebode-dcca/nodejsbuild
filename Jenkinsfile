@@ -12,7 +12,7 @@ pipeline {
       stages { 
 	stage('Git') {
 		steps {
-			git 'https://github.com/SWAGATAM04/nodejs.git'
+			git 'https://github.com/oyebode23/nodejsbuild.git'
 	           }
 	}
 	stage('Build') {
