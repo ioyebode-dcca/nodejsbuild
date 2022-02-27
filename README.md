@@ -11,5 +11,4 @@ This should all be written in IaC and CM code of your choice.
 
 You need to build a ECS cluster in AWS using Terraform.
 Using a CI/CD tool such a Jenkins or CodeBuild, build a CI/CD flow that will monitor your git repository for changes to a docker file, build and push the dockerfile to ECR and deploy it to ECS for testing.
-This should all be written in IaC and CM code of your choice
-All the best
+This should all be written in IaC and CM code of your choic
