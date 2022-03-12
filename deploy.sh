@@ -3,7 +3,7 @@ set -x
 #Constants
 PATH=$PATH:/usr/local/bin; export PATH
 export AWS_ACCESS_KEY_ID=AKIAUJQSGS5E42EYHGT4
-export AWS_SECRET_ACCESS_KEY=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
+export AWS_SECRET_ACCESS_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 REGION=us-east-2
 REPOSITORY_NAME=nodejs-build
 CLUSTER=node-js-app-production-cluster
